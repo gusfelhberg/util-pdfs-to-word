@@ -1,0 +1,5 @@
+jupyterlab
+ipywidgets
+pymupdf
+Pillow
+python-docx
