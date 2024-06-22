@@ -1,6 +1,6 @@
 # util-pdfs-to-word
 
-Utilities to converts PDF files into one single word (.docx) file
+Utilities to convert PDF files into one single word (.docx) file
 
 ## Step-by-step
 1. Install the requirements.txt
